@@ -9,3 +9,5 @@ Nazwa zespołu: ???
 ???
 
 ## Ulubione technologie
+
+AI
