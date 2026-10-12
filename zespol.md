@@ -11,3 +11,5 @@ Dominik
 ???
 
 ## Ulubione technologie
+
+AI
