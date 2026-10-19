@@ -1,6 +1,6 @@
 # Zespół
 
-Nazwa zespołu: NIGGERS
+Nazwa zespołu: maslo
 
 ## Skład
 
