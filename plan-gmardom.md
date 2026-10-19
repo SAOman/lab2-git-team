@@ -1,3 +1,4 @@
 - React
 - git
 - Next
+-Uwaga od Szymon: żeś ciapciak
