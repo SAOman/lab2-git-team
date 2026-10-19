@@ -1,4 +1,4 @@
-# Zespół
+# Zespół - Laboratorium 2
 
 Nazwa zespołu: maslo
 
