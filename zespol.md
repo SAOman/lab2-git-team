@@ -1,4 +1,4 @@
-# Zespół
+# Figo Fagot
 
 Nazwa zespołu: maslo
 
