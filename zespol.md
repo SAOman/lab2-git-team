@@ -8,7 +8,7 @@ Dominik
 
 ## Motto
 
-???
+jes jak jes
 
 ## Ulubione technologie
 
