@@ -1,4 +1,4 @@
-# Figo Fagot
+# Zespół - Laboratorium 2
 
 Nazwa zespołu: maslo
 
